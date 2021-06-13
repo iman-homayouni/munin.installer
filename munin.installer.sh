@@ -4,7 +4,7 @@
 # Email : homayouni.iman@Gmail.com
 # Website : http://www.homayouni.info
 # License : GPL v2.0
-# Last update : 11-March-2021_19:53:05
+# Last update : Sun, 13 Jun 2021 18:25:16 +0430
 # netdata.installer v1.0.1
 # --------------------------------------------------------------------------------------------------------------------------------------------------------- #
 # SUCCESSFULLY TESTED IN UBUNTU 16.04 [XENIAL]
